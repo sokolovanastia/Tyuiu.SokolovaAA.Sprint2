@@ -7,7 +7,7 @@ using Tyuiu.SokolovaAA.Sprint2.Task0.V27.Lib;
 namespace Tyuiu.SokolovaAA.Sprint2.Task0.V27
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             DataService ds = new DataService();
