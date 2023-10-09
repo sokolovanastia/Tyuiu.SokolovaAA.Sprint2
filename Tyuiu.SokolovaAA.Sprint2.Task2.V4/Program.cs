@@ -18,8 +18,8 @@ namespace Tyuiu.SokolovaAA.Sprint2.Task2.V4
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
             Console.WriteLine("* Тема: Логические операции                                                         *");
-            Console.WriteLine("* Задание #1                                                                        *");
-            Console.WriteLine("* Вариант #14                                                                       *");
+            Console.WriteLine("* Задание #2                                                                        *");
+            Console.WriteLine("* Вариант #4                                                                        *");
             Console.WriteLine("* Выполнил: Соколова Анастасия Александровна | АСОиУб-23-3                          *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                          *");
